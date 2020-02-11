@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-i like javascrips
+i like javascript
